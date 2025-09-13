@@ -4,13 +4,13 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SANCHO-XMD;Multi+Device+Whatsapp+Bot;Coded+By+Sancho Tech" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://www.youtube.com/@SanchoTech"> 
-    <img src="https://github.com/sanchotech/SANCHO-XMD/blob/main/assets/bot_image.jpg" alt="Sacho Bot" height="300"> 
+    <img src="https://github.com/sanchotech/SANCHO-XMD/blob/main/assets/bot_image.jpg" alt="Sancho Tech Bot" height="300"> 
   </a> 
 </div>
 
@@ -75,7 +75,7 @@ For further customization and setup guidance, click the button below:
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/youngboycybertech">
+  <a href="https://t.me/sanchotech_support">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Vb6eYFEJkK72xy2TR21c">
@@ -99,7 +99,7 @@ For further customization and setup guidance, click the button below:
 
 ## 📖 About
 
-The Sancho WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+SANCHO-XMD WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
@@ -154,7 +154,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/sanchotech/SANCHO-XMD)!
 
 
 ## Credits
@@ -163,7 +163,7 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [YOUNGBOY ROBOTICS](https://github.com/username) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
-
+- [SanchoTech](https://github.com/sanchotech) for project idea  
 ---
 
 ## ⚠️ Important Warning
@@ -187,7 +187,8 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2024 Professor. All rights reserved.
+Copyright (c) 2025 
+Sancho Tech. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
