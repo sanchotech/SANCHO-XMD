@@ -9,7 +9,7 @@ const settings = {
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
-  version: "2.1.7",
+  version: "1.0.0",
   updateZipUrl: "https://github.com/sanchotech/SANCHO-XMD/archive/refs/heads/main.zip",
 };
 
