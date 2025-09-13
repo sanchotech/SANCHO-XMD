@@ -2,12 +2,9 @@
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SANCHO-XMD;Multi+Device+Whatsapp+Bot;Coded+By+Sancho Tech" alt="Typing SVG" />
-  </a> 
-</div> 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=sancho-xmd!;your+ultimate+whatsapp+bot+!;developed+by+sanchotech+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - SANCHO-XMD">
+</p>
 <div align="center"> 
   <a href="https://www.youtube.com/@SanchoTech"> 
     <img src="https://github.com/sanchotech/SANCHO-XMD/blob/main/assets/bot_image.jpg" alt="Sancho Tech Bot" height="300"> 
