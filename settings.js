@@ -2,7 +2,7 @@ const settings = {
   packname: 'SANCHO-XMD',
   author: '‎',
   botName: "SANCHO-XMD",
-  botOwner: 'Sanchozw', // Your name
+  botOwner: 'Sancho Tech', // Your name
   ownerNumber: '263780325289', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
