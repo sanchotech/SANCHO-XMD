@@ -17,7 +17,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork the SANCHO-XMD repository to your GitHub account:
 
 <div align="center">
   <a href="https://github.com/sanchotech/SANCHO-XMD/fork">
