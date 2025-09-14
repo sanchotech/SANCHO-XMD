@@ -6,7 +6,7 @@ async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
    *🖥️ ${settings.botName || 'SANCHO-XMD'}*  
-   Version: *${settings.version || '2.0.5'}*
+   Version: *${settings.version || '1.0.0'}*
    by ${settings.botOwner || 'SANCHO TECH'}
    YT : ${global.ytch}
 ╚═══════════════════╝
