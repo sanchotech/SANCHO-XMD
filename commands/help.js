@@ -228,7 +228,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterName: SANCHO-XMD,
                         serverMessageId: -1
                     }
                 }
@@ -242,7 +242,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterName: 'SANCHO-XMD BY  SANCHO TECH,
                         serverMessageId: -1
                     } 
                 }
