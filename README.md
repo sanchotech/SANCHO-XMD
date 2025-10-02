@@ -62,12 +62,40 @@ For further customization and setup guidance, click the button below:
 </div>
 
 
+/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://dash.hmvhostings.com/register?ref=GKTSTyFY" target="_blank">
+          <img src="https://img.shields.io/badge/HMVHosting-00ACC1?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1a1a1a"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ### Deploy Now on Below Panel
 <div align="center">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
 </a>
 </div>
+
+
+
+### 📥 Get SANCHO-XMD 
+
+<p align="left">
+  <a href="https://github.com/sanchotech/SANCHO-XMD/archive/refs/heads/main.zip" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download SANCHO-XMD" />
+  </a>
+</p>
+
+
+
 
 ### Join Us
 
