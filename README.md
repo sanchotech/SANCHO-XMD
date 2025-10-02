@@ -60,9 +60,7 @@ For further customization and setup guidance, click the button below:
     <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
-
-
-  />  </a>
+/>  </a>
       </td>
     </tr>
     <tr>
