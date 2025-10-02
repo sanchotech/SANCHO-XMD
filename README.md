@@ -62,7 +62,7 @@ For further customization and setup guidance, click the button below:
 </div>
 
 
-        </a>
+      />  </a>
       </td>
     </tr>
     <tr>
