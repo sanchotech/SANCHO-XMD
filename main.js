@@ -111,7 +111,7 @@ const { anticallCommand, readState: readAnticallState } = require('./commands/an
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A";
+global.channelLink = "https://whatsapp.com/channel/0029Vb6eYFEJkK72xy2TR21c";
 global.ytch = "sancho tech";
 
 // Add this near the top of main.js with other global configurations
