@@ -53,7 +53,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
+  <a href="https://youtu.be/v1_SomNl_Dk?si=uCH4b0aWHNnaJl1Y">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
@@ -159,7 +159,7 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 - [YOUNGBOY DEV](https://github.com/Youngboy)
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [YOUNGBOY ROBOTICS](https://github.com/username) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+- [Keith-tech57](https://github.com/Dgxeon) for pair code
 - [SanchoTech](https://github.com/sanchotech) for project idea  
 ---
 
